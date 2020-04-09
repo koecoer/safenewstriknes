@@ -21,10 +21,10 @@ if(a_to_vh==false)
 {var encryptedUrl=Base64.encode(a_to_vi);
 var x=Math.floor((Math.random()*4)+ 1);
 var xxx=null;
-if(x=="1"){xxx="the-top-3-credit-bureaus.html"}
-if(x=="2"){xxx="best-bachelors-in-engineering-online.html"}
-if(x=="3"){xxx="10-companies-that-give-insurance-to.html"}
-if(x=="4"){xxx="best-video-conferencing-software.html"}a_to_ve[i].href="https://www.divags.com/2020/04/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="1"){xxx="best-credit-card-promotions-2020.html"}
+if(x=="2"){xxx="best-gaming-pc-2020-fast-and-powerfull.html"}
+if(x=="3"){xxx="best-gaming-laptop-2020-in-world.html"}
+if(x=="4"){xxx="the-best-drone-in-world-2020.html"}a_to_ve[i].href="http://www.safe.triknesia.com/2020/04/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
